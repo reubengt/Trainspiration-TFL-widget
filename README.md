@@ -1,4 +1,5 @@
-# Week 3 API Project: Team MEIA 
+# A recreation of the tfl live status widget.. and then some!
+## Week 3 Project - Founders and coders summer 2019 cohort
 Desktop
 
 ![Imgur](https://i.imgur.com/CHxLH72.png)
